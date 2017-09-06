@@ -2,6 +2,12 @@
 
 Run SUPERHOT in the command prompt!
 
+## Demo
+
+Click the image to go to the YouTube video.
+
+[![6kk demo](https://img.youtube.com/vi/_UqyskXffZc/0.jpg)](https://www.youtube.com/watch?v=_UqyskXffZc)
+
 ## Installation
 
 0. Be on Windows and have SUPERHOT installed through Steam.
@@ -14,6 +20,14 @@ Run SUPERHOT in the command prompt!
 The script will launch SUPERHOT automatically.
 
 It will not always find the correct memory location - if you get a blank screen in the command prompt, close the game and termninate the script (Ctrl+C in the command prompt) and try again.
+
+## Coverage
+
+* [Kotaku Australia]
+* [PC Gamer]
+
+[Kotaku Australia]: https://www.kotaku.com.au/2016/03/you-can-run-superhots-menus-through-a-command-prompt/
+[PC Gamer]: http://www.pcgamer.com/python-wiz-gets-superhots-menus-and-minigames-running-in-command-prompt/
 
 ## License
 
